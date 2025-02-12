@@ -4,3 +4,4 @@
 ### Add Terraform template
 - Initial terraform test with nginx container deployment.
 - Add changelog file.
+- Add validation workflow to force terraform fmt checks.
